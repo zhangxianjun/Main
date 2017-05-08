@@ -1,0 +1,12 @@
+PODS:
+  - BaseStone (0.1.0)
+
+DEPENDENCIES:
+  - BaseStone (~> 0.1.0)
+
+SPEC CHECKSUMS:
+  BaseStone: 8fe8fbacd663f2ad693be9eb0424bcdb364dc6f4
+
+PODFILE CHECKSUM: 2c992ba7177a89f72b7482fade309d6cf77bb97d
+
+COCOAPODS: 1.2.1
